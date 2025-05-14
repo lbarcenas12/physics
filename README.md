@@ -4,7 +4,9 @@
 - free fall equation: t=sqrt((2(delta y))/g)
 - W = F(d)cos(theta) | d-> distance
 - P, inst (for rotation) = Torque(angular speed)
-- P, inst = Fvcos(theta): translational 
+- P, inst = Fvcos(theta): translational
+- drag force => mg = bv | b=>given
+- P = (delta kinetic energy)/t
 
 ## Range equation scenario (missiles)
  - delta y = 0 (when launched from ground)
